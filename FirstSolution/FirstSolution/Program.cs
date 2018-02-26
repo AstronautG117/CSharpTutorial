@@ -1,4 +1,5 @@
 ﻿using System;
+using LessonPlan;
 
 namespace FirstSolution
 {
@@ -6,7 +7,7 @@ namespace FirstSolution
     {
         static void Main(string[] args)
         {
-            
+            Lesson2.main1();
         }
 
 
